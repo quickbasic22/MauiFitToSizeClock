@@ -49,15 +49,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <MauiFont Remove="Resources\Fonts\MobileFont.ttf" />
-	</ItemGroup>
-
-	<ItemGroup>
 	  <None Remove="Resources\Fonts\MobileFont.ttf" />
-	</ItemGroup>
-
-	<ItemGroup>
-	  <Resource Include="Resources\Fonts\MobileFont.ttf" />
 	</ItemGroup>
 
 	<ItemGroup>
